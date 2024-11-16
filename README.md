@@ -48,7 +48,7 @@ Step 2 : Unzip the folder to your desired location
 Step 3 : If you don't have Microsoft Power BI Desktop Installed , go to https://www.microsoft.com/en-in/download/details.aspx?id=58494&msockid=39cd1c66ce6867ae13a2094ecfc066fd, download the suitable installer, install Microsoft Power BI Desktop and launch it. 
 Step 5 : Navigate to this project folder. 
 Step 6 : When inside navigate to HR_Data_Analysis.
-Step 7 : Open the HR Analysis Report.pbx using Microsoft Power BI Desktop.
+Step 7 : Open the HR Analysis Report.pbIx using Microsoft Power BI Desktop.
 Step 8 : Go through the Questions mentioned above and compare the visuals in the Power BI File accordingly.
 
 ### Purpose of Solving this problem
