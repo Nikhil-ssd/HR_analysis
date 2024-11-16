@@ -46,7 +46,7 @@ E) The out_time contains 4,410 rows and columns containing the out-time of 4,410
 
 Analyzing human resources (HR) data of a company using Power BI serves several critical purposes that help improve workforce management, productivity, and organizational strategy. With the specific datasets provided, you can uncover valuable insights to make data-driven decisions. Below is a detailed breakdown:
 
-### 1. Understanding Employee Demographics
+#### 1. Understanding Employee Demographics
 Age Distribution: Analyze the age range of employees to plan for succession and workforce development.
 Departmental Insights: Study the distribution of employees across departments to identify workforce imbalances.
 Marital Status and Gender: Evaluate diversity and inclusion metrics.
