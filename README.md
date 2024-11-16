@@ -42,6 +42,15 @@ E) The out_time contains 4,410 rows and columns containing the out-time of 4,410
 19. KPIs: Create Key Performance Indicators (KPIs) for employee performance using DAX calculations. 
 20. Dynamic Reporting: Show how to make a report dynamic by using bookmarks and buttons to switch between different views of the data.
 
+### Instructions on how to run this project code on your system
+Step 1 : Download this project repository as a zip file. 
+Step 2 : Unzip the folder to your desired location 
+Step 3 : If you don't have Microsoft Power BI Desktop Installed , go to https://www.microsoft.com/en-in/download/details.aspx?id=58494&msockid=39cd1c66ce6867ae13a2094ecfc066fd, download the suitable installer, install Microsoft Power BI Desktop and launch it. 
+Step 5 : Navigate to this project folder. 
+Step 6 : When inside navigate to HR_Data_Analysis.
+Step 7 : Open the HR Analysis Report.pbx using Microsoft Power BI Desktop.
+Step 8 : Go through the Questions mentioned above and compare the visuals in the Power BI File accordingly.
+
 ### Purpose of Solving this problem
 
 Analyzing human resources (HR) data of a company using Power BI serves several critical purposes that help improve workforce management, productivity, and organizational strategy. With the specific datasets provided, you can uncover valuable insights to make data-driven decisions. Below is a detailed breakdown:
